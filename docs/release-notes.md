@@ -2,6 +2,8 @@
 
 ## Upcoming ignition-config 0.6.0 (unreleased)
 
+- Add Ignition 3.6.0 spec
+
 
 ## ignition-config 0.5.0 (2024-11-07)
 

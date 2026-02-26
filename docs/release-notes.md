@@ -1,8 +1,12 @@
 # Release notes
 
-## Upcoming ignition-config 0.6.0 (unreleased)
+## Upcoming ignition-config 0.7.0 (unreleased)
+
+
+## ignition-config 0.6.0 (2026-02-26)
 
 - Add Ignition 3.6.0 spec
+- Pin tempfile < 3.25
 
 
 ## ignition-config 0.5.0 (2024-11-07)
